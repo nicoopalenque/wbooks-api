@@ -22,3 +22,7 @@ Things you may want to cover:
 ## Run project
 
 ``` $ rails s ```
+
+## Backoffice
+
+``` localhost:3000/admin ```
