@@ -5,20 +5,20 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 3.0.1
 
-* System dependencies
+## Clone repository
 
-* Configuration
+``` $ git clone https://github.com/nicoopalenque/wbooks-api.git ```
 
-* Database creation
+## Install gems
 
-* Database initialization
+``` $ bundle install ```
 
-* How to run the test suite
+## Setup database
 
-* Services (job queues, cache servers, search engines, etc.)
+``` $ rails db:setup ```
 
-* Deployment instructions
+## Run project
 
-* ...
+``` $ rails s ```
